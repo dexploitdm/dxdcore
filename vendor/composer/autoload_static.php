@@ -20,7 +20,7 @@ class ComposerStaticInitcf21157e2e037900dcf28878426a898a
     public static $prefixDirsPsr4 = array (
         'dxdcore\\' => 
         array (
-            0 => __DIR__ . '/..' . '/dxdcore',
+            0 => __DIR__ . '/..' . '/dxdcore/core',
         ),
         'app\\' => 
         array (
