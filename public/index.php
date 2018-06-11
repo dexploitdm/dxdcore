@@ -4,4 +4,4 @@ require_once LIBS . '/functions.php';
 
 new \dxdcore\App();
 
-debug(\dxdcore\App::$app->getProperties());
+throw new Exception('Страница не найдена', 404);
