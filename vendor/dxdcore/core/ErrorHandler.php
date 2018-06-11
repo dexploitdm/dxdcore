@@ -24,7 +24,7 @@ class ErrorHandler {
         {$message} | Файл: {$file} | Строка: {$line}\n===========\n", 3,
     ROOT . '/tmp/errors.log');
     }
-    protected function displayError($errno, $rrstr, $errfile, $errline, $responce =
+    protected function displayError($errno, $errstr, $errfile, $errline, $responce =
     404){
         http_response_code($responce);
         if($responce == 404 && !DEBUG){
