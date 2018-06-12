@@ -216,3 +216,84 @@
 [2018-06-11 19:56:18] Текст ошибки: 
         Метод app\controllers\PageController::viewAction не найден | Файл: C:\develop\OSPanel\domains\dxdcore\vendor\dxdcore\core\Router.php | Строка: 31
 ===========
+[2018-06-12 11:39:28] Текст ошибки: 
+        Страница не найдена | Файл: C:\develop\OSPanel\domains\dxdcore\vendor\dxdcore\core\Router.php | Строка: 37
+===========
+[2018-06-12 12:23:14] Текст ошибки: 
+        syntax error, unexpected '/', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) | Файл: C:\develop\OSPanel\domains\dxdcore\vendor\dxdcore\core\base\View.php | Строка: 31
+===========
+[2018-06-12 12:24:47] Текст ошибки: 
+        syntax error, unexpected '/', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) | Файл: C:\develop\OSPanel\domains\dxdcore\vendor\dxdcore\core\base\View.php | Строка: 31
+===========
+[2018-06-12 12:31:29] Текст ошибки: 
+        syntax error, unexpected '/', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) | Файл: C:\develop\OSPanel\domains\dxdcore\vendor\dxdcore\core\base\View.php | Строка: 31
+===========
+[2018-06-12 12:32:17] Текст ошибки: 
+        syntax error, unexpected '/', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) | Файл: C:\develop\OSPanel\domains\dxdcore\vendor\dxdcore\core\base\View.php | Строка: 31
+===========
+[2018-06-12 12:33:52] Текст ошибки: 
+        syntax error, unexpected '/', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) | Файл: C:\develop\OSPanel\domains\dxdcore\vendor\dxdcore\core\base\View.php | Строка: 31
+===========
+[2018-06-12 12:36:40] Текст ошибки: 
+        syntax error, unexpected '/', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) | Файл: C:\develop\OSPanel\domains\dxdcore\vendor\dxdcore\core\base\View.php | Строка: 31
+===========
+[2018-06-12 12:44:32] Текст ошибки: 
+        syntax error, unexpected '/', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) | Файл: C:\develop\OSPanel\domains\dxdcore\vendor\dxdcore\core\base\View.php | Строка: 31
+===========
+[2018-06-12 12:46:13] Текст ошибки: 
+        syntax error, unexpected '/', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) | Файл: C:\develop\OSPanel\domains\dxdcore\vendor\dxdcore\core\base\View.php | Строка: 31
+===========
+[2018-06-12 12:47:53] Текст ошибки: 
+        На найден вид C:\develop\OSPanel\domains\dxdcore/app/views//.php | Файл: C:\develop\OSPanel\domains\dxdcore\vendor\dxdcore\core\base\View.php | Строка: 37
+===========
+[2018-06-12 12:47:54] Текст ошибки: 
+        На найден вид C:\develop\OSPanel\domains\dxdcore/app/views//.php | Файл: C:\develop\OSPanel\domains\dxdcore\vendor\dxdcore\core\base\View.php | Строка: 37
+===========
+[2018-06-12 12:47:55] Текст ошибки: 
+        На найден вид C:\develop\OSPanel\domains\dxdcore/app/views//.php | Файл: C:\develop\OSPanel\domains\dxdcore\vendor\dxdcore\core\base\View.php | Строка: 37
+===========
+[2018-06-12 12:47:55] Текст ошибки: 
+        На найден вид C:\develop\OSPanel\domains\dxdcore/app/views//.php | Файл: C:\develop\OSPanel\domains\dxdcore\vendor\dxdcore\core\base\View.php | Строка: 37
+===========
+[2018-06-12 12:47:55] Текст ошибки: 
+        На найден вид C:\develop\OSPanel\domains\dxdcore/app/views//.php | Файл: C:\develop\OSPanel\domains\dxdcore\vendor\dxdcore\core\base\View.php | Строка: 37
+===========
+[2018-06-12 12:48:11] Текст ошибки: 
+        На найден вид C:\develop\OSPanel\domains\dxdcore/app/views//.php | Файл: C:\develop\OSPanel\domains\dxdcore\vendor\dxdcore\core\base\View.php | Строка: 37
+===========
+[2018-06-12 12:48:11] Текст ошибки: 
+        На найден вид C:\develop\OSPanel\domains\dxdcore/app/views//.php | Файл: C:\develop\OSPanel\domains\dxdcore\vendor\dxdcore\core\base\View.php | Строка: 37
+===========
+[2018-06-12 12:48:12] Текст ошибки: 
+        На найден вид C:\develop\OSPanel\domains\dxdcore/app/views//.php | Файл: C:\develop\OSPanel\domains\dxdcore\vendor\dxdcore\core\base\View.php | Строка: 37
+===========
+[2018-06-12 12:48:24] Текст ошибки: 
+        На найден вид C:\develop\OSPanel\domains\dxdcore/app/views//.php | Файл: C:\develop\OSPanel\domains\dxdcore\vendor\dxdcore\core\base\View.php | Строка: 37
+===========
+[2018-06-12 12:50:13] Текст ошибки: 
+        На найден вид C:\develop\OSPanel\domains\dxdcore/app/views//.php | Файл: C:\develop\OSPanel\domains\dxdcore\vendor\dxdcore\core\base\View.php | Строка: 37
+===========
+[2018-06-12 12:51:12] Текст ошибки: 
+        На найден вид C:\develop\OSPanel\domains\dxdcore/app/views//.php | Файл: C:\develop\OSPanel\domains\dxdcore\vendor\dxdcore\core\base\View.php | Строка: 37
+===========
+[2018-06-12 12:51:27] Текст ошибки: 
+        На найден вид C:\develop\OSPanel\domains\dxdcore/app/views//.php | Файл: C:\develop\OSPanel\domains\dxdcore\vendor\dxdcore\core\base\View.php | Строка: 37
+===========
+[2018-06-12 12:51:27] Текст ошибки: 
+        На найден вид C:\develop\OSPanel\domains\dxdcore/app/views//.php | Файл: C:\develop\OSPanel\domains\dxdcore\vendor\dxdcore\core\base\View.php | Строка: 37
+===========
+[2018-06-12 12:51:28] Текст ошибки: 
+        На найден вид C:\develop\OSPanel\domains\dxdcore/app/views//.php | Файл: C:\develop\OSPanel\domains\dxdcore\vendor\dxdcore\core\base\View.php | Строка: 37
+===========
+[2018-06-12 12:51:28] Текст ошибки: 
+        На найден вид C:\develop\OSPanel\domains\dxdcore/app/views//.php | Файл: C:\develop\OSPanel\domains\dxdcore\vendor\dxdcore\core\base\View.php | Строка: 37
+===========
+[2018-06-12 12:52:21] Текст ошибки: 
+        На найден вид C:\develop\OSPanel\domains\dxdcore/app/views//.php | Файл: C:\develop\OSPanel\domains\dxdcore\vendor\dxdcore\core\base\View.php | Строка: 37
+===========
+[2018-06-12 12:52:51] Текст ошибки: 
+        syntax error, unexpected '/', expecting :: (T_PAAMAYIM_NEKUDOTAYIM) | Файл: C:\develop\OSPanel\domains\dxdcore\vendor\dxdcore\core\base\View.php | Строка: 31
+===========
+[2018-06-12 16:08:03] Текст ошибки: 
+        Class 'app\controllers\App' not found | Файл: C:\develop\OSPanel\domains\dxdcore\app\controllers\MainController.php | Строка: 8
+===========
